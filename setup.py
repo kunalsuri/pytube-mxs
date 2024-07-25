@@ -3,7 +3,7 @@
 import codecs
 import os
 
-from setuptools import setup
+from setuptools import __version__, setup
 
 here = os.path.abspath(os.path.dirname(__file__))
 
